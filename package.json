@@ -7,8 +7,5 @@
   },
   "scripts": {
     "test": "jest"
-  },
-  "env": {
-    "jest/globals": true
   }
 }
