@@ -1,3 +1,3 @@
-const array = [];
+const arrayAnalysis = (array);
 
-export default array;
+export default arrayAnalysis;
